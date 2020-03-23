@@ -3,7 +3,7 @@
 DETAILS OF APPLICAITON - 
 	>> Name of Application : Image Selector
 	>> Made with : Java and XML
-	>> App size on phone : ~12 MB
+	>> App size on phone : ~12 MB (3MB)
 	>> Permissions requires to use : Gallery Access
 
 --- --- ---
