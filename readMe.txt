@@ -5,7 +5,6 @@ DETAILS OF APPLICAITON -
 	>> Made with : Java and XML
 	>> App size on phone : ~12 MB
 	>> Permissions requires to use : Gallery Access
-	>> Used Websites : [https://covidout.in/], [https://coronavirus.app/map]
 
 --- --- ---
 
